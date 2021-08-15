@@ -11,6 +11,7 @@ import struct
 import random
 
 
+
 def dns_codec(hostname):
     '''''
     Function:请求消息编码
